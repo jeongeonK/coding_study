@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.HashSet;
 
-public class Main {
+public class jeoeo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
